@@ -1,4 +1,4 @@
-#  Projet JAX-RS / Spring Boot — Gestion des Comptes Bancaires
+# JAX-RS / Spring Boot — Gestion des Comptes Bancaires
 
 ##  Architecture du projet
 <img width="343" height="412" alt="Screenshot 2025-11-05 114707" src="https://github.com/user-attachments/assets/d50124bb-a5b3-42f1-b812-cce0fbb1fda6" />
